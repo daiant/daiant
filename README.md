@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daiant
 - 👀 I’m interested in 3d modeling, Artificial Intelligence and robotics.
-- 🌱 I’m currently learning how not to shit myself.
+- 🌱 I’m currently developing a web application for media streaming.
 - 💞️ I’m looking to collaborate on whatever project you throw at me.
 - 📫 How to reach me: Just shout to the wind and I will appear next to you :)
 
